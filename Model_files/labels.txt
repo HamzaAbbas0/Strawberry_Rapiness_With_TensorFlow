@@ -1,0 +1,3 @@
+0 ready_to_pickle_strawberry
+1 not_pickle_strawberry
+2 Bad_weevils_impacted
